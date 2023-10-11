@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+    background-color: rgb(127, 182, 72);
+    padding: 20px 25px;
+    width: 30%;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .pre , .next {
+    color: black;
+    text-decoration: none;
+  }
